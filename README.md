@@ -1,6 +1,2 @@
 
 # Docker_test
-
-
-
-
